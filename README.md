@@ -20,6 +20,7 @@
 
 如果您在使用这些脚本时遇到任何问题，请随时联系我。感谢您的支持！
 
+----
 
 **Note:**
 These scripts are written for Cinema 4D 2023.2.2. Tested on Microsoft Windows 10.

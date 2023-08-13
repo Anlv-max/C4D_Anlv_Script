@@ -1,3 +1,26 @@
+**注意：**
+这些脚本是为 Cinema 4D 2023.2.2 编写的。在Microsoft Windows 10上进行了测试。
+使用这些脚本需要自担风险！
+
+## 安装：
+要安装这些脚本，请按照以下步骤进行：
+
+1. 下载此存储库并解压缩。
+2. 将"Anlv Script"文件夹复制到以下路径：
+
+   **Windows：**  
+   `C:\Users\<USER>\AppData\Roaming\MAXON\Maxon Cinema 4D RXX\library\scripts`  
+
+   **Mac OS：**  
+   `/Applications/MAXON/CINEMA 4D RXX/library/scripts`
+
+    如果您不确定如何找到安装脚本的文件夹，请打开Cinema 4D并转到首选项。然后点击"打开首选项文件夹..."按钮，然后导航到"库 > 脚本"文件夹。
+
+确保将脚本放置在正确的位置，并重新启动Cinema 4D。现在，您应该能够在Cinema 4D中访问和使用这些脚本了。
+
+如果您在使用这些脚本时遇到任何问题，请随时联系我。感谢您的支持！
+
+
 **Note:**
 These scripts are written for Cinema 4D 2023.2.2. Tested on Microsoft Windows 10.
 Use these scripts at your own risk!

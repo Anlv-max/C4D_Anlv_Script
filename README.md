@@ -17,12 +17,16 @@ MikeUdin https://github.com/MikeUdin
 ![Add MoGraph Cache tag](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Add%20MoGraph%20Cache%20tag.png?raw=true)  
 **Add MoGraph Cache tag:**  
 Script Name: Add MoGraph Cache Tag  
-脚本名称: 添加运动图形缓存标签  
 Description: Add MoGraph Cache Tag To All Motion Graphic Objects In The Scene.  
-描述: 为场景中的所有运动图形对象添加运动图形缓存标签.  
+脚本名称: 添加运动图形缓存标签  
+脚本描述: 为场景中的所有运动图形对象添加运动图形缓存标签.  
 
 ![Axis Center](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Axis%20Center.png?raw=true)  
 **Axis Center:**  
+Script Name: Axis Center  
+Description:  The selected object is centered on the axis. (SHIFT-CLICK: The axis of the selected object is placed at the bottom)  
+脚本名称: 轴心控制  
+脚本描述:  选中的对象轴心居中。（SHIFT-CLICK：选中的对象轴心置于底部）  
 
 ![CNV Conversion Subdivision](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/CNV%20Conversion%20Subdivision.png?raw=true)  
 CNV Conversion Subdivision:  

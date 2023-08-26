@@ -1,4 +1,7 @@
-#Use at your own risk
+# https://github.com/Anlv-max/C4D_Anlv_Script
+# Works With Cinema 4D 2023.2.2
+# USE AT YOUR OWN RISK
+
 """
 Name-US:Add MoGraph Cache Tag
 Name-ZH:添加运动图形缓存标签

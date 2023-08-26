@@ -20,6 +20,7 @@ MikeUdin https://github.com/MikeUdin
 #### 添加运动图形缓存标签  
 **默认 :** 为场景中的所有运动图形对象添加运动图形缓存标签.  
 
+----
 ![Axis Center](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Axis%20Center.png?raw=true)  
 #### Axis Center  
 **Default :** The selected object is centered on the axis.  
@@ -28,6 +29,7 @@ MikeUdin https://github.com/MikeUdin
 **默认 :** 选中的对象轴心居中。  
 **Shift-click ：** 选中的对象轴心置于底部 
 
+----
 ![CNV Conversion Subdivision](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/CNV%20Conversion%20Subdivision.png?raw=true)  
 #### CNV Conversion Subdivision  
 **Default :** Convert all subdivided surface objects to Octane Object tag and add subdivision.  
@@ -35,6 +37,7 @@ MikeUdin https://github.com/MikeUdin
 **默认 :** 将「细分对象」转换为「Octane 对象标签」并开启细分。  
 细分等级将根据细分对象嵌套层数设置，如未选中对象，则对整个场景进行转换。  
 
+----
 ![Clean Curve](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Clean%20Curve.png?raw=true)  
 #### Clean Curve  
 **Default :** Clean selected curves  
@@ -45,36 +48,42 @@ MikeUdin https://github.com/MikeUdin
 **Shift+click :** 清洁整个场景  
 **Ctrl+click :** 清洁整个场景，但排除选中对象  
 
+----
 ![Collect Tex](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Collect%20Tex.png?raw=true)  
 #### Collect Tex  
 **Default :** Copy the linked textures to the tex folder of the project, and modify them to relative paths.  
 #### 收集贴图  
 **默认 :** 将已链接的贴图复制到项目的tex文件夹，同时修改为相对路径。  
 
+----
 ![Copy Object](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Copy%20Object.png?raw=true)  
 #### Copy Object  
 **Default :** Copy the currently selected object.  
 #### 复制对象  
 **默认 :** 拷贝一份当前选中的对象.  
 
+----
 ![Del Protection Tag](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Del%20Protection%20Tag.png?raw=true)  
 #### Del Protection Tag  
 **Default :** Remove All Protection Tag In The Scene.  
 #### 删除保护标签  
 **默认 :** 删除场景中所有的保护标签  
 
+----
 ![Delete Null](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Delete%20Null.png?raw=true)  
 #### Delete Null Objects  
 **Default :** Delete Null objects that do not contain child elements in the scene.  
 #### 删除空对象  
 **默认 :** 删除场景中不包含子级的空对象.  
 
+----
 ![Mute Layer](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Mute%20Layer.png?raw=true)  
 #### Mute Layer  
 **Default :** CLOSE View\Render\Manager\Locked\Animation\Generators\Deformers\Expressions\Xref  
 #### 静音层  
 **默认 :** 关闭 View\Render\Manager\Locked\Animation\Generators\Deformers\Expressions\Xref  
 
+----
 ![Select Same Object Type](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Select%20Same%20Object%20Type.png?raw=true)  
 #### Act on same Object-Types  
 **Default :** Select same Object-Types  
@@ -85,6 +94,7 @@ MikeUdin https://github.com/MikeUdin
 **Ctrl-click :** 将相同的对象类型设置为关闭  
 **Alt-CLICK :** 将相同的对象类型设置为默认  
 
+----
 ![Select Same Tag](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Select%20Same%20Tag.png?raw=true)  
 #### Act on same TAG-Types  
 **Default:** Click the button after selecting a tag, and select tags of the same type.  

@@ -1,8 +1,7 @@
 **注意：**
 这些脚本是为 Cinema 4D 2023.2.2 编写的。在Microsoft Windows 10上进行了测试。
 使用这些脚本需要自担风险！
-如果在使用的过程中碰到什么问题，或者需要反馈BUG，请通过X(Twitter) 私信我。t
-- Twitter：[@Anlv_Max]([https://twitter.com/myusername](https://twitter.com/Anlv_Max))
+如果在使用的过程中碰到什么问题，或者需要反馈BUG，请通过X(Twitter) 私信我。- Twitter：[@Anlv_Max]([https://twitter.com/myusername](https://twitter.com/Anlv_Max))
 
 **特别鸣谢**
 aturtur https://github.com/aturtur

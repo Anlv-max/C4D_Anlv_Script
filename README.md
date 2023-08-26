@@ -13,10 +13,14 @@ MikeUdin https://github.com/MikeUdin
 这里收集的脚本中存在对以上作者脚本代码的借鉴或引用，我也是因为使用了 aturtur Cinema 4D 脚本后对脚本的编写产生了兴趣，对此非常感谢这些作者的分享。  
 
 ----
+
 ![Add MoGraph Cache tag](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Add%20MoGraph%20Cache%20tag.png?raw=true)  
 Add MoGraph Cache tag:  
-![](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Axis%20Center.png?raw=true)
+
+![Axis Center](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Axis%20Center.png?raw=true)  
+
 Axis Center:  
+
 ----
 ## 安装：
 

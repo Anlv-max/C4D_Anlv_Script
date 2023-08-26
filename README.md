@@ -1,7 +1,7 @@
 [![Twitter](https://github.com/Anlv-max/C4D_Anlv_Script/raw/main/img/Twitter.png)](https://twitter.com/Anlv_Max)  
 
 **注意：**   
-这些脚本是为 Cinema 4D 2023.2.2 编写的。在Microsoft Windows 10上进行了测试。
+这些脚本是为 Cinema 4D 2023.2.2 编写的。在 Microsoft Windows 10 上进行了测试。
 使用这些脚本需要自担风险！  
 
 

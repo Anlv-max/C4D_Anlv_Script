@@ -11,7 +11,7 @@ aturtur https://github.com/aturtur
 lasselauch https://github.com/lasselauch  
 MikeUdin https://github.com/MikeUdin  
   
-脚本中存在很多对以上作者脚本代码的借鉴或引用，我也是因为使用了 aturtur 的 Cinema 4D 脚本后对脚本的编写产生了兴趣，我对此非常感谢这三位作者的无私分享。    
+这里收集的脚本中存在对以上作者脚本代码的借鉴或引用，我也是因为使用了 aturtur Cinema 4D 脚本后对脚本的编写产生了兴趣，对此非常感谢这些作者的分享。    
 
 ## 安装：
 
@@ -19,7 +19,7 @@ MikeUdin https://github.com/MikeUdin
 
 1. 下载此存储库并解压缩。
 
-2. 将"Anlv Script"文件夹复制到以下路径：
+2. 将"Anlv Script"文件夹复制到以下路径：  
    **Windows：**  
    `C:\Users\<USER>\AppData\Roaming\MAXON\Maxon Cinema 4D RXX\library\scripts`  
    **Mac OS：**  

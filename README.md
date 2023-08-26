@@ -2,23 +2,20 @@
 
 **注意：**
 这些脚本是为 Cinema 4D 2023.2.2 编写的。在Microsoft Windows 10上进行了测试。
-使用这些脚本需要自担风险！
+使用这些脚本需要自担风险！  
 如果在使用的过程中碰到什么问题，或者需要反馈BUG，请通过X(Twitter) 私信我。  
 
 
-
-
-这段Markdown代码用于在文本中插入一个链接到 Twitter 页面的图片。点击图片将会跳转到提供的 Twitter 链接。
-
-**特别鸣谢**
+**特别鸣谢**  
 aturtur https://github.com/aturtur  
 lasselauch https://github.com/lasselauch  
 MikeUdin https://github.com/MikeUdin  
+  
 脚本中存在很多对以上作者脚本代码的借鉴或引用，我也是因为使用了 aturtur 的 Cinema 4D 脚本后对脚本的编写产生了兴趣，我对此非常感谢这三位作者的无私分享。    
 
 ## 安装：
 
-要安装这些脚本，请按照以下步骤进行：
+要安装这些脚本，请按照以下步骤进行：  
 
 1. 下载此存储库并解压缩。
 

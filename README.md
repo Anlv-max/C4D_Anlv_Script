@@ -23,7 +23,7 @@ MikeUdin https://github.com/MikeUdin
    **Windows：**  
    `C:\Users\<USER>\AppData\Roaming\MAXON\Maxon Cinema 4D RXX\library\scripts`  
    **Mac OS：**  
-   `/Applications/MAXON/CINEMA 4D RXX/library/scripts`
+   `/Applications/MAXON/CINEMA 4D RXX/library/scripts`  
     如果您不确定如何找到安装脚本的文件夹，请打开Cinema 4D并转到首选项。然后点击"打开首选项文件夹..."按钮，然后导航到"库 > 脚本"文件夹。
 
 确保将脚本放置在正确的位置，并重新启动Cinema 4D。现在，您应该能够在Cinema 4D中访问和使用这些脚本了。

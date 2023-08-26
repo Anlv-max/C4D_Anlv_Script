@@ -32,7 +32,8 @@ MikeUdin https://github.com/MikeUdin
 #### CNV Conversion Subdivision  
 **Default :** Convert all subdivided surface objects to Octane Object tag and add subdivision.  
 #### CNV 细分对象转换器  
-**默认 :** 将「细分对象」转换为「Octane 对象标签」并开启细分。（细分等级根据细分对象嵌套数设置，如未选中对象，则对整个场景进行转换。）  
+**默认 :** 将「细分对象」转换为「Octane 对象标签」并开启细分。  
+细分等级将根据细分对象嵌套层数设置，如未选中对象，则对整个场景进行转换。  
 
 ![Clean Curve](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Clean%20Curve.png?raw=true)  
 #### Clean Curve  

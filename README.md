@@ -27,31 +27,58 @@ The selected object is centered on the axis. (SHIFT-CLICK: The axis of the selec
 选中的对象轴心居中。（SHIFT-CLICK：选中的对象轴心置于底部）  
 
 ![CNV Conversion Subdivision](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/CNV%20Conversion%20Subdivision.png?raw=true)  
-CNV Conversion Subdivision:  
+#### CNV Conversion Subdivision  
+Convert all subdivided surface objects to Octane Object tag and add subdivision.  
+#### CNV 细分对象转换器  
+将「细分对象」转换为「Octane 对象标签」并开启细分。（细分等级根据细分对象嵌套数设置，如未选中对象，则对整个场景进行转换。）  
 
 ![Clean Curve](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Clean%20Curve.png?raw=true)  
-**Clean Curve:**  
+#### Clean Curve  
+[Default] Clean selected curves [SHIFT+Click] Clean the entire scene [CTRL+Click] Clean the entire scene, excluding selected objects.  
+#### 清洁动画曲线  
+[默认] 清洁选中对象的无效曲线 [SHIFT+单击] 清洁整个场景 [CTRL-单击] 清洁整个场景，但排除选中对象  
 
 ![Collect Tex](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Collect%20Tex.png?raw=true)  
-**Collect Tex:**  
+#### Collect Tex  
+Copy the linked textures to the tex folder of the project, and modify them to relative paths.  
+#### 收集贴图  
+将已链接的贴图复制到项目的tex文件夹，同时修改为相对路径。  
 
 ![Copy Object](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Copy%20Object.png?raw=true)  
-**Copy Object:**  
+#### Copy Object  
+Copy the currently selected object.  
+#### 复制对象  
+拷贝一份当前选中的对象.  
 
 ![Del Protection Tag](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Del%20Protection%20Tag.png?raw=true)  
-**Del Protection Tag:**  
+#### Del Protection Tag  
+Remove All Protection Tag In The Scene.  
+#### 删除保护标签  
+删除场景中所有的保护标签  
 
 ![Delete Null](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Delete%20Null.png?raw=true)  
-**Delete Null:**  
+#### Delete Null Objects  
+Delete Null objects that do not contain child elements in the scene.  
+#### 删除空对象  
+删除场景中不包含子级的空对象.  
 
 ![Mute Layer](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Mute%20Layer.png?raw=true)  
-**Mute Layer:**  
+#### Mute Layer  
+CLOSE View\Render\Manager\Locked\Animation\Generators\Deformers\Expressions\Xref  
+#### 静音层  
+关闭 View\Render\Manager\Locked\Animation\Generators\Deformers\Expressions\Xref  
 
 ![Select Same Object Type](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Select%20Same%20Object%20Type.png?raw=true)  
-**Select Same Object Type:**  
+#### Act on same Object-Types  
+[ DEFAULT ] Select same Object-Types [ CTRL-CLICK ] Turn same Object-Types to OFF [ ALT-CLICK ] Turn same Object-Types to DEFAULT  
+#### 选择相同的对象类型  
+[ 默认 ] 选择相同的对象类型 [ CTRL-点击 ] 将相同的对象类型设置为关闭 [ ALT-点击 ] 将相同的对象类型设置为默认  
 
 ![Select Same Tag](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Select%20Same%20Tag.png?raw=true)  
-**Select Same Tag:**  
+#### Act on same TAG-Types  
+Click the button after selecting a tag, and select tags of the same type.  
+#### 选择相同标签  
+选中一个标签后点击左键，将选中相同类型的标签。  
 
 ----
 ## 安装：

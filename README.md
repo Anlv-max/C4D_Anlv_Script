@@ -18,9 +18,34 @@ MikeUdin https://github.com/MikeUdin
 Add MoGraph Cache tag:  
 
 ![Axis Center](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Axis%20Center.png?raw=true)  
-
 Axis Center:  
 
+![CNV Conversion Subdivision](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/CNV%20Conversion%20Subdivision.png?raw=true)  
+CNV Conversion Subdivision:  
+
+![Clean Curve](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Clean%20Curve.png?raw=true)  
+Clean Curve:  
+
+![Collect Tex](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Collect%20Tex.png?raw=true)  
+Collect Tex:  
+
+![Copy Object](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Copy%20Object.png?raw=true)  
+Copy Object:  
+
+![Del Protection Tag](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Del%20Protection%20Tag.png?raw=true)  
+Del Protection Tag:  
+
+![Delete Null](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Delete%20Null.png?raw=true)  
+Delete Null:  
+
+![Mute Layer](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Mute%20Layer.png?raw=true)  
+Mute Layer:  
+
+![Select Same Object Type](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Select%20Same%20Object%20Type.png?raw=true)  
+Select Same Object Type:  
+
+![Select Same Tag](https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/script%20icon/Select%20Same%20Tag.png?raw=true)  
+Select Same Tag:  
 ----
 ## 安装：
 

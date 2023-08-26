@@ -1,9 +1,14 @@
+[![Twitter](https://github.com/Anlv-max/C4D_Anlv_Script/raw/main/img/Twitter.png)](https://twitter.com/Anlv_Max)  
+
 **注意：**
 这些脚本是为 Cinema 4D 2023.2.2 编写的。在Microsoft Windows 10上进行了测试。
 使用这些脚本需要自担风险！
-如果在使用的过程中碰到什么问题，或者需要反馈BUG，请通过X(Twitter) 私信我。
+如果在使用的过程中碰到什么问题，或者需要反馈BUG，请通过X(Twitter) 私信我。  
 
-[https://github.com/Anlv-max/C4D_Anlv_Script/blob/main/img/Twitter.png](https://twitter.com/Anlv_Max)
+
+
+
+这段Markdown代码用于在文本中插入一个链接到 Twitter 页面的图片。点击图片将会跳转到提供的 Twitter 链接。
 
 **特别鸣谢**
 aturtur https://github.com/aturtur  
